@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/apache/curator/curator-framework/4.2.0/curator-framework-4.2.0.jar" sourcepath="C:/Users/ybwang1/.m2/repository/org/apache/curator/curator-framework/4.2.0/curator-framework-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/apache/curator/curator-client/4.2.0/curator-client-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/com/google/guava/guava/27.0-jre/guava-27.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/apache/curator/curator-recipes/4.2.0/curator-recipes-4.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
